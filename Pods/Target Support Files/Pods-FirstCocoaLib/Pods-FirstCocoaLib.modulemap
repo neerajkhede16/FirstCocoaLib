@@ -1,0 +1,6 @@
+module Pods_FirstCocoaLib {
+  umbrella header "Pods-FirstCocoaLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
